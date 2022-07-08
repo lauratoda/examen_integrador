@@ -1,9 +1,7 @@
-Flavia Guarino # examen_integrador
-examen final Intro
+ # examen_integrador
 
-
-
-
-
-
+Flavia Guarino
 Laura Toda
+Gaspar del Barrio
+Bruno Cappellani
+
