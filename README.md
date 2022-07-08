@@ -1,4 +1,4 @@
-# examen_integrador
+Flavia Guarino # examen_integrador
 examen final Intro
 
 
@@ -7,4 +7,8 @@ examen final Intro
 
 
 
+
 Gaspar del Barrio
+
+Bruno Cappellani
+
